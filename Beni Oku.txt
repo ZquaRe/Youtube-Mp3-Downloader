@@ -1,0 +1,7 @@
+Merhaba,scripti kurmadan önce þunu söylemek istiyorum.
+Script uzak sunucuyla çalýþmaktadýr ve uzak sunuculardan veri çekmektedir.
+500 Error hatasý alýyorsanýz büyük ihtimal hosting saðlayýcýnýz desteklemiyor olabilir.
+
+Iyi kullanýmlar.
+
+Kodizyon.com
